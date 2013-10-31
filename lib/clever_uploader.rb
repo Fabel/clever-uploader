@@ -1,2 +1,1 @@
-module CleverUploader
-end
+require 'clever_uploader/rails'
